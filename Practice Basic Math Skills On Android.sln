@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice Basic Math Skills On Android", "Assembly-CSharp.csproj", "{21137A90-100F-E4A5-C0F4-206DF7C8AA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice Basic Math Skills On Android", "Assembly-CSharp-Editor.csproj", "{C4E582E8-7BDD-196B-D58B-4A9D4D57D6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21137A90-100F-E4A5-C0F4-206DF7C8AA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21137A90-100F-E4A5-C0F4-206DF7C8AA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21137A90-100F-E4A5-C0F4-206DF7C8AA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21137A90-100F-E4A5-C0F4-206DF7C8AA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E582E8-7BDD-196B-D58B-4A9D4D57D6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E582E8-7BDD-196B-D58B-4A9D4D57D6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E582E8-7BDD-196B-D58B-4A9D4D57D6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E582E8-7BDD-196B-D58B-4A9D4D57D6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
